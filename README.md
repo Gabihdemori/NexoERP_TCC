@@ -56,7 +56,7 @@ Metodologia ágil utilizada: **Scrum**
 
 ## 📂 Documentação
 
-Todo o material documental está na pasta [`./docs`](./docs):
+Todo o material documental está na pasta [`./docs`](./docs.docx):
 - Documentação ABNT do projeto
 - Diagramas (Casos de Uso, Classes, MER/DER)
 - Wireframes e protótipos
