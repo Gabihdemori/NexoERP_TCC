@@ -91,10 +91,4 @@ Todo o material documental está na pasta [`./docs`](./docs):
 - [ ] Modelagem MER x DER
 - [ ] Iniciar diagrama de classes (DC)
 
----
 
-## 🎥 Apresentações
-
-- Apresentação do grupo: [link do vídeo ou slide]
-- Protótipo funcional (Web): [link ou imagens]
-- Protótipo funcional (Mobile): [link ou imagens]
