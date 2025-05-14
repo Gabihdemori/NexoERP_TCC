@@ -45,7 +45,7 @@ Metodologia ágil utilizada: **Scrum**
 
 | Tipo        | Link                                                                 |
 |-------------|----------------------------------------------------------------------|
-| Repositório principal | [github.com/usuario/flor-e-samba-tcc](https://github.com/usuario/flor-e-samba-tcc) |
+| Repositório principal | [github.com/Gabihdemori/flor-e-samba-tcc](https://github.com/Gabihdemori/flor-e-samba-tcc.git) |
 | Front-end   | [github.com/usuario/flor-e-samba-frontend](https://github.com/usuario/flor-e-samba-frontend) |
 | Back-end    | [github.com/usuario/flor-e-samba-backend](https://github.com/usuario/flor-e-samba-backend) |
 | Mobile      | [github.com/usuario/flor-e-samba-mobile](https://github.com/usuario/flor-e-samba-mobile) |
@@ -53,7 +53,6 @@ Metodologia ágil utilizada: **Scrum**
 > ⚠️ Todos os integrantes devem ser adicionados como **colaboradores** em cada repositório.
 
 ---
-
 ## 📂 Documentação
 
 Todo o material documental está na pasta [`./docs`](./docs.docx):
