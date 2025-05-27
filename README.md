@@ -27,10 +27,10 @@ A proposta tem como objetivo aplicar os conceitos de **desenvolvimento ágil de 
 
 ## 🎯 Objetivos do Projeto
 
-- Desenvolver um sistema completo para PMEs, utilizando práticas ágeis.
-- Integrar conhecimentos de front-end, back-end, banco de dados e versionamento.
+- Desenvolver um sistema de gestão empresarial que atenda pequenas e médias empresas, focando em eficiência, organização e facilidade de uso.
+- Aplicar conhecimentos técnicos em Desenvolvimento web (Front-end e Back-end), banco de dados e Mobile.
 - Produzir documentação técnica conforme normas da ABNT.
-- Demonstrar na prática a viabilidade de uso do Scrum em projetos de pequeno porte realizados por um único desenvolvedor.
+- Comprovar na prática a eficiência da metodologia ágil Scrum, mesmo em projetos desenvolvidos individualmente, mostrando organização, produtividade e entregas constantes.
 
 ---
 
