@@ -8,7 +8,7 @@ O projeto consiste no desenvolvimento de um sistema completo (web, mobile e back
 ## 🛠️ Sobre o Projeto
 
 O sistema oferece funcionalidades como:
-- 🔐 ** Login seguro**
+- 🔐 **Login seguro**
 - 👥 **Gestão de usuários**
 - 🗂️ **Gestão de projetos**
 - 📑 **Gestão de backlog**
@@ -48,7 +48,7 @@ A proposta tem como objetivo aplicar os conceitos de **desenvolvimento ágil de 
   - Scrum Master: Gabriela Helena  
   - Dev Team: Gabriela Helena  
 
-> Como o projeto é individual, todos os papéis do Scrum foram adaptados à realidade de um desenvolvedor júnior atuando sozinho.
+> Como o projeto é individual, todos os papéis do Scrum foram adaptados à realidade de um desenvolvedor atuando sozinho.
 
 ---
 
