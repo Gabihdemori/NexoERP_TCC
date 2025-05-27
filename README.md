@@ -9,16 +9,10 @@ O projeto consiste no desenvolvimento de um sistema completo (web, mobile e back
 
 O sistema oferece funcionalidades como:
 - 🔐 **Login seguro**
-- 👥 **Gestão de usuários**
-- 🗂️ **Gestão de projetos**
-- 📑 **Gestão de backlog**
-- 🏃‍♂️ **Planejamento de sprints**
-- ✅ **Gestão de tarefas**
-- 🗺️ **Quadro Kanban**
-- 🧾 **Gestão de clientes**
-- 📈 **Acompanhamento de progresso**
-- 📄 **Geração de relatórios**
-- 🔍 **Histórico de atividades**
+- 🛍️ **Gestão de Produtos/Serviços**
+- 📝 **Ordens de Serviço (OS)**
+- 🚀 **Gestão de Projetos e Tarefas**
+- 📊 **Relatórios Financeiros e Operacionais**
 
 
 A proposta tem como objetivo aplicar os conceitos de **desenvolvimento ágil de software** adaptados à realidade de **Pequenas e Médias Empresas (PMEs)**, usando o Scrum como estrutura principal de trabalho.
