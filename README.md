@@ -1,4 +1,4 @@
-# 🌸 Flor e Samba - TCC Desenvolvimento de Sistemas
+# Desenvolvimento de Software com Metodologias Ágeis para Pequenas e Médias Empresas: Uma Abordagem Prática
 
 Projeto de TCC do curso de Desenvolvimento de Sistemas (SENAI). O sistema é voltado para a gestão de uma floricultura fictícia chamada **Flor e Samba**, com funcionalidades para catálogo de produtos, pedidos, controle de estoque e administração.  
 Metodologia ágil utilizada: **Scrum**
