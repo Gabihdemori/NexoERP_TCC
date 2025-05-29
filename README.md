@@ -1,4 +1,4 @@
-# 💻 Desenvolvimento de Software com Metodologias Ágeis para Pequenas e Médias Empresas: Uma Abordagem Prática
+# 💻 Software de Gestão Integrada para PMEs: Desenvolvimento com Metodologias Ágeis 
 
 Este é um projeto de Trabalho de Conclusão de Curso (TCC) do curso **Técnico em Desenvolvimento de Sistemas – SENAI**.  
 O projeto consiste no desenvolvimento de um sistema completo (web, mobile e back-end) voltado para a gestão de **Pequenas e Médias Empresas**, com foco na aplicação prática de metodologias ágeis, especialmente o **Scrum**.
