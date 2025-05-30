@@ -21,7 +21,7 @@ A proposta tem como objetivo aplicar os conceitos de **desenvolvimento ágil de 
 
 ## 👤 Desenvolvedor
 
-- Gabriela Helena (Desenvolvedora Júnior – Projeto individual)
+- Gabriela Helena (Projeto individual)
 
 ---
 
