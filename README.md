@@ -72,7 +72,7 @@ A proposta tem como objetivo aplicar os conceitos de **desenvolvimento ágil de 
 
 ## 📄 Documentação do Projeto
 
-A documentação técnica está disponível na pasta [`./docs`](./docs.docx), incluindo:
+A documentação técnica está disponível na pasta [`./docs`](./(SGI) para PMEs.docx), incluindo:
 - Documento ABNT completo do TCC
 - Diagramas UML (Casos de Uso, Classes, MER, DER)
 - Prototipação (Wireframes)
