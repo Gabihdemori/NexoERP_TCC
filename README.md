@@ -1,7 +1,9 @@
 # Desenvolvimento de ERP Simplificado para PMEs com Metodologia Ágil e Foco em Automação
 
-Este é um projeto de Trabalho de Conclusão de Curso (TCC) do curso **Técnico em Desenvolvimento de Sistemas – SENAI**.  
-O projeto consiste no desenvolvimento de um sistema completo (web, mobile e back-end) voltado para a gestão de **Pequenas e Médias Empresas**, com foco na aplicação prática de metodologias ágeis, especialmente o **Scrum**.
+Este projeto faz parte do Trabalho de Conclusão de Curso (TCC) do curso Técnico em Desenvolvimento de Sistemas – SENAI.
+Trata-se do desenvolvimento de um sistema ERP simplificado, projetado especialmente para atender Pequenas e Médias Empresas (PMEs) com foco em automação de processos, agilidade operacional e metodologias ágeis, utilizando o framework Scrum.
+
+A proposta nasce da necessidade de soluções acessíveis e eficientes que melhorem a gestão empresarial sem a complexidade ou os custos dos ERPs tradicionais. O sistema permite a administração integrada de usuários, clientes, produtos, vendas, estoque e relatórios.
 
 ---
 
@@ -9,14 +11,13 @@ O projeto consiste no desenvolvimento de um sistema completo (web, mobile e back
 
 O sistema oferece funcionalidades como:
 - 🔐 **Login seguro**
-  - Sistema de autenticação para controle de acesso de usuários.
 - 👤 **Gestão de Usuários**
-  - Cadastro, edição e gerenciamento de permissões de acesso.
 - 🤝 **Gestão de Clientes**
-  - Registro de clientes com dados comerciais e históricos de relacionamento.
-- 🚀 **Gestão de Projetos e Tarefas**
-- 📊 **Relatórios Financeiros e Operacionais**
-
+- 📦 **Gestão de Produtos**
+- 📊 **Controle de Vendas**
+- 📉 **Gerenciamento de Estoque**
+- 📈 **Relatórios de Vendas**
+- ⚙️ **Automação de Processos**
 
 A proposta tem como objetivo aplicar os conceitos de **desenvolvimento ágil de software** adaptados à realidade de **Pequenas e Médias Empresas (PMEs)**, usando o Scrum como estrutura principal de trabalho.
 
@@ -30,10 +31,11 @@ A proposta tem como objetivo aplicar os conceitos de **desenvolvimento ágil de 
 
 ## 🎯 Objetivos do Projeto
 
-- Desenvolver um sistema de gestão empresarial que atenda pequenas e médias empresas, focando em eficiência, organização e facilidade de uso.
-- Aplicar conhecimentos técnicos em Desenvolvimento web (Front-end e Back-end), banco de dados e Mobile.
-- Produzir documentação técnica conforme normas da ABNT.
-- Comprovar na prática a eficiência da metodologia ágil Scrum, mesmo em projetos desenvolvidos individualmente, mostrando organização, produtividade e entregas constantes.
+- Criar uma solução prática e acessível que otimize a gestão de PMEs.
+- Reduzir tarefas manuais e melhorar o fluxo de informações empresariais.
+- Utilizar práticas de desenvolvimento ágil, especialmente o Scrum.
+- Demonstrar a capacidade técnica no desenvolvimento Web, Mobile e Back-end.
+- Elaborar documentação conforme as normas da ABNT.
 
 ---
 
@@ -93,7 +95,7 @@ A documentação técnica está disponível na pasta [`./docs`](./docs.docx), in
 - [x] Elaborar documentação técnica (ABNT)
 - [x] Definir cronograma com Gantt
 - [ ] Finalizar protótipo funcional
-- [ ] Validar requisitos com DCU
+- [x] Validar requisitos com DCU
 - [ ] Concluir modelagem MER e DER
 - [ ] Diagramar estrutura do back-end
 - [ ] Iniciar o desenvolvimento do sistema
@@ -106,7 +108,7 @@ A documentação técnica está disponível na pasta [`./docs`](./docs.docx), in
 - [x] Submeter repositório via formulário
 - [x] Prototipar interface funcional
 - [x] Identificar requisitos principais
-- [ ] Finalizar casos de uso (DCU)
+- [x] Finalizar casos de uso (DCU)
 - [ ] Finalizar modelagem MER e DER
 - [ ] Iniciar estruturação do back-end
 
