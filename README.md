@@ -1,4 +1,4 @@
-# 💻 Software de Gestão Integrada para PMEs: Desenvolvimento com Metodologias Ágeis 
+# 💻 Desenvolvimento de ERP Simplificado para PMEs com Metodologia Ágil: Automação e Agilidade na Gestão Empresarial
 
 Este é um projeto de Trabalho de Conclusão de Curso (TCC) do curso **Técnico em Desenvolvimento de Sistemas – SENAI**.  
 O projeto consiste no desenvolvimento de um sistema completo (web, mobile e back-end) voltado para a gestão de **Pequenas e Médias Empresas**, com foco na aplicação prática de metodologias ágeis, especialmente o **Scrum**.
