@@ -10,8 +10,10 @@ O projeto consiste no desenvolvimento de um sistema completo (web, mobile e back
 O sistema oferece funcionalidades como:
 - 🔐 **Login seguro**
   - Sistema de autenticação para controle de acesso de usuários.
-- 🛍️ **Gestão de Produtos/Serviços**
-- 📝 **Ordens de Serviço (OS)**
+- 👤 **Gestão de Usuários**
+  - Cadastro, edição e gerenciamento de permissões de acesso.
+- 🤝 **Gestão de Clientes**
+  - Registro de clientes com dados comerciais e históricos de relacionamento.
 - 🚀 **Gestão de Projetos e Tarefas**
 - 📊 **Relatórios Financeiros e Operacionais**
 
