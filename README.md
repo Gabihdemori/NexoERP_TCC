@@ -1,4 +1,4 @@
-# 💻 Desenvolvimento de ERP Simplificado para PMEs com Metodologia Ágil: Automação e Agilidade na Gestão Empresarial
+# Desenvolvimento de ERP Simplificado para PMEs com Metodologia Ágil e Foco em Automação
 
 Este é um projeto de Trabalho de Conclusão de Curso (TCC) do curso **Técnico em Desenvolvimento de Sistemas – SENAI**.  
 O projeto consiste no desenvolvimento de um sistema completo (web, mobile e back-end) voltado para a gestão de **Pequenas e Médias Empresas**, com foco na aplicação prática de metodologias ágeis, especialmente o **Scrum**.
@@ -9,6 +9,7 @@ O projeto consiste no desenvolvimento de um sistema completo (web, mobile e back
 
 O sistema oferece funcionalidades como:
 - 🔐 **Login seguro**
+  Sistema de autenticação para controle de acesso de usuários.
 - 🛍️ **Gestão de Produtos/Serviços**
 - 📝 **Ordens de Serviço (OS)**
 - 🚀 **Gestão de Projetos e Tarefas**
