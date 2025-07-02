@@ -66,19 +66,17 @@ A proposta tem como objetivo aplicar os conceitos de **desenvolvimento ágil de 
 
 | Módulo        | Repositório                                                                 |
 |---------------|------------------------------------------------------------------------------|
-| Repositório Principal | [Sistema Ágil para PMEs – TCC](https://github.com/Gabihdemori/Sistema_agil_para_PMEs_TCC) |
-| Front-end     | [Sistema Ágil para PMEs – TCC - Frontend](https://github.com/usuario/Sistema_agil_para_PMEs_TCC-frontend)   |
-| Back-end      | [Sistema Ágil para PMEs – TCC - Backend](https://github.com/usuario/Sistema_agil_para_PMEs_TCC-backend)     |
-| Mobile        | [Sistema Ágil para PMEs – TCC - mobile](https://github.com/usuario/Sistema_agil_para_PMEs_TCC-mobile)       |
+| Repositório Principal | [NexoERP](https://github.com/Gabihdemori/Sistema_agil_para_PMEs_TCC) |
+| Front-end     | [NexoERP - Frontend](https://github.com/usuario/Sistema_agil_para_PMEs_TCC-frontend)   |
+| Back-end      | [NexoERP - Backend](https://github.com/usuario/Sistema_agil_para_PMEs_TCC-backend)     |
 
-> ⚠️ Todos os repositórios são sincronizados com o principal. Adicione todos os colaboradores (se houver) em cada um.
+> ⚠️ Todos os repositórios são sincronizados com o principal. 
 
 ---
 
 ## 📄 Documentação do Projeto
 
 A documentação técnica está disponível na pasta [`./docs`](./docs.docx), incluindo:
-- Documento ABNT completo do TCC
 - Diagramas UML (Casos de Uso, Classes, MER, DER)
 - Prototipação (Wireframes)
 - Planejamento estratégico (Canvas, Gantt)
@@ -94,11 +92,11 @@ A documentação técnica está disponível na pasta [`./docs`](./docs.docx), in
 - [x] Criar estrutura de repositórios
 - [x] Elaborar documentação técnica (ABNT)
 - [x] Definir cronograma com Gantt
-- [ ] Finalizar protótipo funcional
+- [x] Finalizar protótipo funcional
 - [x] Validar requisitos com DCU
-- [ ] Concluir modelagem MER e DER
-- [ ] Diagramar estrutura do back-end
-- [ ] Iniciar o desenvolvimento do sistema
+- [x] Concluir modelagem MER e DER
+- [x] Diagramar estrutura do back-end
+- [x] Iniciar o desenvolvimento do sistema
 
 ---
 
@@ -109,8 +107,8 @@ A documentação técnica está disponível na pasta [`./docs`](./docs.docx), in
 - [x] Prototipar interface funcional
 - [x] Identificar requisitos principais
 - [x] Finalizar casos de uso (DCU)
-- [ ] Finalizar modelagem MER e DER
-- [ ] Iniciar estruturação do back-end
+- [x] Finalizar modelagem MER e DER
+- [x] Iniciar estruturação do back-end
 
 ---
 
