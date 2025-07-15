@@ -68,7 +68,7 @@ A proposta tem como objetivo aplicar os conceitos de **desenvolvimento ágil de 
 |---------------|------------------------------------------------------------------------------|
 | Repositório Principal | [NexoERP](https://github.com/Gabihdemori/Sistema_agil_para_PMEs_TCC) |
 | Front-end     | [NexoERP - Frontend](https://github.com/usuario/Sistema_agil_para_PMEs_TCC-frontend)   |
-| Back-end      | [NexoERP - Backend](https://github.com/usuario/Sistema_agil_para_PMEs_TCC-backend)     |
+| Back-end      | [NexoERP - Backend](https://github.com/Gabihdemori/NexoERP_end.git)     |
 
 > ⚠️ Todos os repositórios são sincronizados com o principal. 
 
