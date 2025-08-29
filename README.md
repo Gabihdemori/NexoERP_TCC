@@ -1,95 +1,101 @@
-# Desenvolvimento de ERP Simplificado para PMEs com Metodologia Ágil e Foco em Automação
+# 🧠 ERP Simplificado para PMEs com Metodologia Ágil e Foco em Automação
 
-Este projeto faz parte do Trabalho de Conclusão de Curso (TCC) do curso Técnico em Desenvolvimento de Sistemas – SENAI.
-Trata-se do desenvolvimento de um sistema ERP simplificado, projetado especialmente para atender Pequenas e Médias Empresas (PMEs) com foco em automação de processos, agilidade operacional e metodologias ágeis, utilizando o framework Scrum.
+Este repositório faz parte do **Trabalho de Conclusão de Curso (TCC)** do curso Técnico em Desenvolvimento de Sistemas – **SENAI**.
 
-A proposta nasce da necessidade de soluções acessíveis e eficientes que melhorem a gestão empresarial sem a complexidade ou os custos dos ERPs tradicionais. O sistema permite a administração integrada de usuários, clientes, produtos, vendas, estoque e relatórios.
+O projeto consiste no desenvolvimento de um **sistema ERP simplificado**, voltado especialmente para atender **Pequenas e Médias Empresas (PMEs)**, com foco em **automação de processos**, **agilidade operacional** e uso de **metodologias ágeis**, mais especificamente o **Scrum**.
 
----
-
-## 🛠️ Sobre o Projeto
-
-O sistema oferece funcionalidades como:
-- 🔐 **Login seguro**
-- 👤 **Gestão de Usuários**
-- 🤝 **Gestão de Clientes**
-- 📦 **Gestão de Produtos**
-- 📊 **Controle de Vendas**
-- 📉 **Gerenciamento de Estoque**
-- 📈 **Relatórios de Vendas**
-- ⚙️ **Automação de Processos**
-
-A proposta tem como objetivo aplicar os conceitos de **desenvolvimento ágil de software** adaptados à realidade de **Pequenas e Médias Empresas (PMEs)**, usando o Scrum como estrutura principal de trabalho.
+O objetivo é oferecer uma solução **acessível, prática e moderna**, que centralize a gestão de diferentes áreas de um negócio: usuários, clientes, produtos, vendas, estoque e relatórios.
 
 ---
 
-## 👤 Desenvolvedor
+## 🛠️ Funcionalidades Principais
 
-- Gabriela Helena (Projeto individual)
+- 🔐 Login seguro
+- 👤 Gestão de Usuários
+- 🤝 Gestão de Clientes
+- 📦 Gestão de Produtos
+- 📊 Controle de Vendas
+- 📉 Gerenciamento de Estoque
+- 📈 Geração de Relatórios
+- ⚙️ Automação de Processos
 
 ---
 
 ## 🎯 Objetivos do Projeto
 
-- Criar uma solução prática e acessível que otimize a gestão de PMEs.
-- Reduzir tarefas manuais e melhorar o fluxo de informações empresariais.
-- Utilizar práticas de desenvolvimento ágil, especialmente o Scrum.
-- Demonstrar a capacidade técnica no desenvolvimento Web, Mobile e Back-end.
-- Elaborar documentação conforme as normas da ABNT.
+- Criar uma solução acessível que otimize a gestão de PMEs
+- Reduzir tarefas manuais e erros operacionais
+- Aplicar práticas ágeis de desenvolvimento (Scrum)
+- Demonstrar conhecimentos em front-end, back-end e modelagem
+- Produzir documentação técnica de acordo com normas da ABNT
 
 ---
 
-## ⚙️ Metodologia Utilizada
+## ⚙️ Metodologia
 
-- **Metodologia Ágil:** Scrum  
-- **Papéis no projeto:**  
-  - Product Owner: Gabriela Helena  
-  - Scrum Master: Gabriela Helena  
-  - Dev Team: Gabriela Helena  
+- **Abordagem:** Metodologia Ágil – Scrum
+- **Papéis:**
+  - Product Owner: Gabriela Helena
+  - Scrum Master: Gabriela Helena
+  - Dev Team: Gabriela Helena
 
-> Como o projeto é individual, todos os papéis do Scrum foram adaptados à realidade de um desenvolvedor atuando sozinho.
+> Como o projeto é individual, todos os papéis foram assumidos pela mesma pessoa, respeitando a estrutura do Scrum.
 
 ---
 
 ## 🧩 Planejamento e Modelagem
 
-- ✅ Proposta inicial do projeto
-- ✅ Requisitos funcionais e casos de uso (DCU)
-- ✅ Modelagem de banco de dados (MER e DER)
+- ✅ Levantamento de requisitos
+- ✅ Casos de uso (DCU)
+- ✅ Modelagem de dados (MER/DER)
 - ✅ Diagrama de classes (Back-end)
+- ✅ Prototipação (Wireframes)
+- ✅ Plano de desenvolvimento (Canvas e Gantt)
+
+### 📌 Casos de Uso – DCU
+
+![Diagrama de Casos de Uso](./DCU.png)
+
+### 📌 Diagrama Entidade-Relacionamento – DER
+
+![Diagrama DER](./diagrama.png)
 
 ---
 
 ## 🗂 Estrutura de Repositórios
 
-| Módulo        | Repositório                                                                 |
-|---------------|------------------------------------------------------------------------------|
-| Repositório Principal | [NexoERP](https://github.com/Gabihdemori/Sistema_agil_para_PMEs_TCC) |
-| Front-end     | [NexoERP - Frontend](https://github.com/usuario/Sistema_agil_para_PMEs_TCC-frontend)   |
-| Back-end      | [NexoERP - Backend](https://github.com/Gabihdemori/NexoERP_back.git)     |
+| Módulo                  | Repositório                                                                 |
+|-------------------------|------------------------------------------------------------------------------|
+| 🔗 Sistema Completo     | [NexoERP - Fullstack](https://github.com/usuario/NexoERP-fullstack)          |
+| 🌐 Front-end            | [NexoERP - Frontend](https://github.com/usuario/Sistema_agil_para_PMEs_TCC-frontend)   |
+| 🖥️ Back-end             | [NexoERP - Backend](https://github.com/Gabihdemori/NexoERP_back.git)         |
+| 📚 Repositório Principal| [NexoERP - Documentação](https://github.com/Gabihdemori/Sistema_agil_para_PMEs_TCC) |
 
-> ⚠️ Todos os repositórios são sincronizados com o principal. 
+> 💡 O repositório "Fullstack" integra o front-end e back-end em um único ambiente, ideal para deploys e testes integrados.
 
 ---
 
-## 📄 Documentação do Projeto
+## 📄 Documentação Técnica
 
-A documentação técnica está disponível na pasta [`./docs`](./docs.docx), incluindo:
+A documentação completa encontra-se na pasta [`/docs`](./docs.docx) e inclui:
+
 - Diagramas UML (Casos de Uso, Classes, MER, DER)
-- Prototipação (Wireframes)
-- Planejamento estratégico (Canvas, Gantt)
-- Requisitos e histórico do projeto
+- Planejamento estratégico (Canvas, cronograma)
+- Prototipação de telas
+- Requisitos funcionais e não funcionais
+- Histórico de desenvolvimento
 
 ---
 
-## 📬 Contato
+## 👩‍💻 Desenvolvedora
 
-Caso deseje entrar em contato para fins acadêmicos, colaborações ou feedbacks:
 - **Gabriela Helena**
-- GitHub: [@Gabihdemori](https://github.com/Gabihdemori)
+  - GitHub: [@Gabihdemori](https://github.com/Gabihdemori)
 
 ---
 
-📝 Projeto acadêmico desenvolvido como parte do curso Técnico em Desenvolvimento de Sistemas – SENAI  
-📍 Tema: Aplicação prática de metodologias ágeis no contexto de pequenas e médias empresas
+## 📝 Licença
 
+Este projeto é de uso educacional, desenvolvido como parte do curso **Técnico em Desenvolvimento de Sistemas – SENAI**.
+
+📍 Tema: Aplicação prática de metodologias ágeis no contexto de pequenas e médias empresas
