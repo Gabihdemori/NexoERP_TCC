@@ -52,13 +52,6 @@ O objetivo é oferecer uma solução **acessível, prática e moderna**, que cen
 - ✅ Prototipação (Wireframes)
 - ✅ Plano de desenvolvimento (Canvas e Gantt)
 
-### 📌 Casos de Uso – DCU
-
-![Diagrama de Casos de Uso](./DCU.png)
-
-### 📌 Diagrama Entidade-Relacionamento – DER
-
-![Diagrama DER](./diagrama.png)
 
 ---
 
