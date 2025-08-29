@@ -1,4 +1,4 @@
-# 🧠 ERP Simplificado para PMEs com Metodologia Ágil e Foco em Automação
+#  NEXOERP: INTEGRAÇÃO E AUTOMAÇÃO PARA PMES ATRAVÉS DE UM SISTEMA ERP SIMPLIFICADO
 
 Este repositório faz parte do **Trabalho de Conclusão de Curso (TCC)** do curso Técnico em Desenvolvimento de Sistemas – **SENAI**.
 
