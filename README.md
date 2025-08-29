@@ -53,9 +53,7 @@ A proposta tem como objetivo aplicar os conceitos de **desenvolvimento ágil de 
 
 ## 🧩 Planejamento e Modelagem
 
-- ✅ Business Model Canvas
 - ✅ Proposta inicial do projeto
-- ✅ Cronograma (Gráfico de Gantt)
 - ✅ Requisitos funcionais e casos de uso (DCU)
 - ✅ Modelagem de banco de dados (MER e DER)
 - ✅ Diagrama de classes (Back-end)
@@ -81,34 +79,6 @@ A documentação técnica está disponível na pasta [`./docs`](./docs.docx), in
 - Prototipação (Wireframes)
 - Planejamento estratégico (Canvas, Gantt)
 - Requisitos e histórico do projeto
-
----
-
-## 📌 Backlog Geral
-
-- [x] Definir metodologia ágil (Scrum)
-- [x] Estabelecer escopo e requisitos iniciais
-- [x] Modelar o negócio com Canvas
-- [x] Criar estrutura de repositórios
-- [x] Elaborar documentação técnica (ABNT)
-- [x] Definir cronograma com Gantt
-- [x] Finalizar protótipo funcional
-- [x] Validar requisitos com DCU
-- [x] Concluir modelagem MER e DER
-- [x] Diagramar estrutura do back-end
-- [x] Iniciar o desenvolvimento do sistema
-
----
-
-## 🔄 Backlog da Sprint Atual
-
-- [x] Criar repositórios e adicionar links
-- [x] Submeter repositório via formulário
-- [x] Prototipar interface funcional
-- [x] Identificar requisitos principais
-- [x] Finalizar casos de uso (DCU)
-- [x] Finalizar modelagem MER e DER
-- [x] Iniciar estruturação do back-end
 
 ---
 
