@@ -1,4 +1,4 @@
-#  💼 NexoERP - Sistema ERP Simplificado para PMEs
+#  💼 Nexoerp: Integração e automação para PMEs través de um sistema ERP simplificado
 
 Este repositório faz parte do **Trabalho de Conclusão de Curso (TCC)** do curso Técnico em Desenvolvimento de Sistemas – **SENAI**.
 
