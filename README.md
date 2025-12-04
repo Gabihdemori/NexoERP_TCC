@@ -49,9 +49,6 @@ O objetivo é oferecer uma solução **acessível, prática e moderna**, que cen
 - ✅ Casos de uso (DCU)
 - ✅ Modelagem de dados (MER/DER)
 - ✅ Diagrama de classes (Back-end)
-- ✅ Prototipação (Wireframes)
-- ✅ Plano de desenvolvimento (Canvas e Gantt)
-
 
 ---
 
@@ -70,13 +67,11 @@ O objetivo é oferecer uma solução **acessível, prática e moderna**, que cen
 
 ## 📄 Documentação Técnica
 
-A documentação completa encontra-se na pasta [`/docs`](./docs.docx) e inclui:
+A documentação completa encontra-se na pasta [`/docs`](./docs.pdf) e inclui:
 
 - Diagramas UML (Casos de Uso, Classes, MER, DER)
-- Planejamento estratégico (Canvas, cronograma)
-- Prototipação de telas
-- Requisitos funcionais e não funcionais
-- Histórico de desenvolvimento
+- Requisitos funcionais 
+
 
 ---
 
