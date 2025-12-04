@@ -59,7 +59,7 @@ O objetivo é oferecer uma solução **acessível, prática e moderna**, que cen
 
 | Módulo                  | Repositório                                                                 |
 |-------------------------|------------------------------------------------------------------------------|
-| 🔗 Sistema Completo     | [NexoERP - Fullstack](https://github.com/Gabihdemori/NexoERP-fullstack.git)          |
+| 🔗 Sistema Completo     | [NexoERP - Fullstack](https://github.com/Gabihdemori/tcc-nuvem.git)          |
 | 🌐 Front-end            | [NexoERP - Frontend](https://github.com/Gabihdemori/web-nexoerp.git)   |
 | 🖥️ Back-end             | [NexoERP - Backend](https://github.com/Gabihdemori/api-nexoerp.git)         |
 | 📚 Repositório Principal| [NexoERP - Documentação](https://github.com/Gabihdemori/Sistema_agil_para_PMEs_TCC) |
